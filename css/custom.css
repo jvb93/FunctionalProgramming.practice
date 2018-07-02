@@ -1,0 +1,17 @@
+
+.strike{
+    text-decoration: line-through;
+}
+
+.margin-right{
+    margin-right: 15px;
+}
+.margin-bottom{
+    margin-bottom: 15px;
+
+}
+
+li{
+    border-bottom: 1px solid lightgrey;
+    padding:15px;
+}
